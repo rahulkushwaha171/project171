@@ -7,7 +7,6 @@ public class Basic extends Thread {
 
 	Basic basic;
 	int x = 89;
-	int i = 45;
 	int u = 90;
 	int xw = 89;
 
