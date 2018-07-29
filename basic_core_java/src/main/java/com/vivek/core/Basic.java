@@ -9,6 +9,7 @@ public class Basic extends Thread {
 	int x = 89;
 	int i = 45;
 	int u = 90;
+	int xw = 89;
 
 	@Override
 	public void run() {
